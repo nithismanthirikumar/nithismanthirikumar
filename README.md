@@ -1,7 +1,7 @@
 ### nithis 'nick' manthirikumar
 
 ```
-brand + creative strategy & intelligence — bangalore.
+brand + creative strategy & intelligence.
 ```
 
 reconciling market truths with brand strategy, the classical with the contemporary. *currently building my portfolio.*
