@@ -1,16 +1,13 @@
-## Hi there 👋
+### nithis 'nick' manthirikumar
 
-<!--
-**nithismanthirikumar/nithismanthirikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+brand + creative strategy & intelligence — bangalore.
+```
 
-Here are some ideas to get you started:
+reconciling market truths with brand strategy, the classical with the contemporary.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![slate](https://img.shields.io/badge/slate-64748B-64748B?style=flat-square) ![sage](https://img.shields.io/badge/sage-8B9D8B-8B9D8B?style=flat-square) ![tan](https://img.shields.io/badge/tan-B79F86-B79F86?style=flat-square) ![paper](https://img.shields.io/badge/paper-F4F1EA-F4F1EA?style=flat-square) ![ink](https://img.shields.io/badge/ink-2B2E2E-2B2E2E?style=flat-square) ![lcd](https://img.shields.io/badge/lcd-8FE39B-8FE39B?style=flat-square)
+
+- [linkedin](https://www.linkedin.com/in/nithis-manthirikumar/)
+- [substack](https://nithis.substack.com)
+- nithis.manthirikumar@gmail.com
