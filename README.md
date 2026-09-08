@@ -10,4 +10,3 @@ reconciling market truths with brand strategy, the classical with the contempora
 
 - [linkedin](https://www.linkedin.com/in/nithis-manthirikumar/)
 - [substack](https://nithis.substack.com)
-- nithis.manthirikumar@gmail.com
